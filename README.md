@@ -1,4 +1,5 @@
-# scielo
+# SciELO Relational Model.
+
 Code to upload and create relational model for the dump of the Scientific Eletronic Library Online (SciELO).
 
 Based on the work presented on [WiDAT](https://labcotec.ibict.br/widat/index.php/widat2023/article/view/44) but it can be improved. New publications are meant to be included here.
