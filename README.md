@@ -11,7 +11,7 @@ MAZONI, A. F.; MARICATO, J. de M.; ARAÚJO, R. F. de; COMESAÑA, R. C. Challenge
 
 ## Metadata coverage
 
-Analysis on the presence of metadata when compared to OpenAlex: [Notebook](https://github.com/insyspo/scielo/blob/main/SciELO_metrics.ipynb).
+Analysis on the presence of metadata when compared to OpenAlex: [Notebook](https://github.com/insyspo/scielo/blob/main/SciELO_metrics_2024.ipynb).
 
 ## Scientometric analysis
 
