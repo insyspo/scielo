@@ -13,6 +13,10 @@ MAZONI, A. F.; MARICATO, J. de M.; ARAÚJO, R. F. de; COMESAÑA, R. C. Challenge
 
 [Jupyter Notebook](https://github.com/insyspo/scielo/blob/main/SciELO_relational_model_2024.ipynb)
 
+## Model diagram
+
+[Diagram](https://github.com/insyspo/scielo/blob/main/scielo.png)
+
 ## Metadata coverage
 
 Analysis on the presence of metadata when compared to OpenAlex: [Notebook](https://github.com/insyspo/scielo/blob/main/SciELO_metrics_2024.ipynb).
